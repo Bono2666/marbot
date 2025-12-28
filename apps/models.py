@@ -58,7 +58,7 @@ class Room(models.Model):
 
 class Task(models.Model):
     task_id = models.BigAutoField(primary_key=True)
-    task_name = models.CharField(max_length=50)
+    task_name = models.CharField(max_length=60)
     room = models.ForeignKey(Room, on_delete=models.CASCADE)
     sun = models.BooleanField(default=False)
     mon = models.BooleanField(default=False)

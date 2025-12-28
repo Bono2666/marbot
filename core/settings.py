@@ -86,9 +86,9 @@ DATABASES = {
         'NAME': 'marbot',
         'USER': 'root',
         'PASSWORD': '',
-        # 'NAME': 'u8365310_aqiqahon',
-        # 'USER': 'u8365310_aqiqahon',
-        # 'PASSWORD': 'tn,(s0LM_%}0',
+        # 'NAME': 'u1573131_marbot',
+        # 'USER': 'u1573131_marbot',
+        # 'PASSWORD': '6t4amOrC.r;RC=}(',
         'HOST': 'localhost',
         'PORT': '3306',
     }
